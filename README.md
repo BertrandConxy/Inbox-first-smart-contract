@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Smart-contract)
+![](https://img.shields.io/badge/SmartContract)
 # Inbox-first-smart-contract
 > This is my first smart contract. It is a contract that initializes a message string and provides a method to update the message and another method to retrieve the current message.
 
